@@ -18,7 +18,7 @@
 
 ### Social
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-fazolo-aa860621a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" alt="Javascript" /></a>
+<a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-fazolo-aa860621a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="35" alt="Javascript" /></a>
 </p>
 
 <!--
