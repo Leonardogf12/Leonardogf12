@@ -5,7 +5,6 @@
 <p>
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="70" height="35" alt="Visual Studio Code" /></a> 
 <a href="https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="100" height="35" alt=".Net Framework" /></a> 
-<a href="https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="100" height="35" alt=".Net Framework" /></a> 
 <a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="35" alt="MySql" /></a> 
   
   
