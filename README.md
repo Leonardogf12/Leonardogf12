@@ -1,4 +1,10 @@
-### Hi there 👋
+### Em construção 🛠  
+
+
+---
+### GitHub Status
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGf12&hide=contribs,prs&show_icons=true&theme=radical)
+---
 
 <!--
 **Leonardogf12/Leonardogf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
