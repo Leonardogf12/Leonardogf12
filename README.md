@@ -12,7 +12,10 @@
 
 ### Socials
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-fazolo-aa860621a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="35" alt="Javascript" /></a>
+<a href="mailto:leonardogf.contato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="34" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-fazolo-aa860621a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="35" alt="Javascript" /></a> 
+
+  
 </p>
 
 
