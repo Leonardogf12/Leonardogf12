@@ -1,3 +1,13 @@
+Oi👋, meu nome é Leonardo.
+==========================
+
+Full Stack Developer
+--------------------
+
+Muito prazer, me chamo Leonardo, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atuo como Desenvolvedor Fullstack C# .NET. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.
+
+
+
 ### GitHub Stats
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardogf12&theme=radical&hide=contribs,prs" width="500" height="200" alt="Javascript" /></a>
 ### Skills
@@ -14,9 +24,15 @@
 <p align="left">
 <a href="mailto:leonardogf.contato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="34" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-fazolo-aa860621a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="35" alt="Javascript" /></a> 
+ <a href="https://www.github.com/Leonardogf12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Leonardogf12?logo=github&style=for-the-badge&color=3382ed&labelColor=171717"  width="170" height="35" alt="Gmail" /></a>
 
   
 </p>
+
+
+
+
 
 
 
