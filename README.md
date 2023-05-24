@@ -4,7 +4,7 @@ Oi👋, meu nome é Leonardo.
 Full Stack Developer
 --------------------
 
-Muito prazer, me chamo Leonardo, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atuo como Desenvolvedor Fullstack C# .NET. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.
+Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atuo como Desenvolvedor Fullstack C# .NET. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.
 
 
 
