@@ -1,7 +1,3 @@
-### Em construção 🛠  
-
-
----
 ### GitHub Status
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGf12&hide=contribs,prs&show_icons=true&theme=radical)
 ---
