@@ -9,7 +9,11 @@ Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolved
 
 
 ### GitHub Stats
-<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardogf12&theme=radical&hide=contribs,prs" width="500" height="200" alt="Javascript" /></a>
+
+
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Leonardogf12&show_icons=true&count_private=true&theme=dark" width="500"></a>
+ <!-- <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardogf12&theme=dark" width="350"></a>
+ <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardogf12&theme=radical&hide=contribs,prs" width="500" height="200" alt="Javascript" /></a> -->
 ### Skills
 <p>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="80" height="35" alt="Visual Studio Code" /></a> 
