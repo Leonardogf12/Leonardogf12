@@ -17,6 +17,18 @@ Full Stack Developer
 
 ### Skills
 <p>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20%20C%23-C%20Sharp-9d5598" width="140" height="35" alt="C#" /></a> 
+<a href="https://learn.microsoft.com/pt-br/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MAUI%20-.NET%20MAUI-7b60d9" width="160" height="35" alt=".NET MAUI" /></a> 
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20%20.NET-8A2BE2" width="60" height="35" alt=".NET" /></a> 
+<a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/My%20SQL-0d668e" width="90" height="35" alt="MySQL" /></a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/POSTMAN-fe7247" width="120" height="35" alt="POSTMAN" /></a> 
+<a href="https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio-a87edb" width="140" height="35" alt="Visual Studio" /></a> 
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT%20HUB-%233D3D3D" width="90" height="35" alt="GitHub" /></a>
+</p>
+
+
+<!--
+<p>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="80" height="35" alt="Visual Studio Code" /></a> 
 <a href="https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="80" height="35" alt=".Net Framework" /></a> 
 <a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="35" alt="MySql" /></a> 
@@ -24,7 +36,7 @@ Full Stack Developer
 <a href="https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="180" height="35" alt="Visual Studio Code" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="120" height="35" alt="GitHub" /></a>
 </p>
-
+-->
 ### Socials
 <p align="left">
 <a href="mailto:leonardogf.contato@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="34" alt="Gmail" /></a>
