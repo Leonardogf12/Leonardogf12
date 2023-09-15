@@ -8,7 +8,6 @@ Full Stack Developer
 <p>Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atuo como Desenvolvedor Fullstack C# .NET. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.</p>
 <a><img src="https://i.giphy.com/media/VekcnHOwOI5So/giphy.webp" width="150" class="giphy-embed"/></a>
 
-<!-- <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p> -->
 
 ### GitHub Stats
 <p align='left'>
@@ -34,10 +33,6 @@ Full Stack Developer
   Seguidores do perfil
   <a href="https://www.github.com/Leonardogf12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Leonardogf12?logo=github&style=for-the-badge&color=3382ed&labelColor=171717"  width="170" height="35" alt="Gmail" /></a>-->
 </p>
-
-
-
-
 
 
 
