@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 
-<p>Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atuo como Desenvolvedor Fullstack C# .NET. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.</p>
+<p>Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atualmente estou trabalhando com C# && .NET MAUI. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.</p>
   <!--<a><img src="https://i.giphy.com/media/VekcnHOwOI5So/giphy.webp" width="150" class="giphy-embed"/></a>-->
   <p align='right'><a><img src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.webp" width="250" class="giphy-embed"/></a></p>
   
