@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 
-<p>Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atualmente estou trabalhando com C# && .NET MAUI. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.</p>
+<p><a>Tenho 27 anos, sou formado em Analise e desenvolvimento de Sistemas, desenvolvedor a pouco mais de 3 anos, atualmente estou trabalhando com C#</a> <b style='text-color:3181e4'>&&</b> <a>.NET MAUI. Meu passa tempo preferido é estudar as tecnologias que atualmente trabalho, também curto viajar, estar com a minha família/amigos e como todo bom nerd, Jogar um bom FPS 😁.</a></p>
   <!--<a><img src="https://i.giphy.com/media/VekcnHOwOI5So/giphy.webp" width="150" class="giphy-embed"/></a>-->
   <p align='right'><a><img src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.webp" width="250" class="giphy-embed"/></a></p>
   
@@ -24,7 +24,7 @@ Full Stack Developer
 <a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/My%20SQL-0d668e" width="90" height="35" alt="MySQL" /></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/POSTMAN-fe7247" width="120" height="35" alt="POSTMAN" /></a> 
 <a href="https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio-a87edb" width="140" height="35" alt="Visual Studio" /></a> 
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT%20HUB-%233D3D3D" width="90" height="35" alt="GitHub" /></a>
+<a href="https://github.com/Leonardogf12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT%20HUB-%233D3D3D" width="90" height="35" alt="GitHub" /></a>
 </p>
 
 ### Socials
