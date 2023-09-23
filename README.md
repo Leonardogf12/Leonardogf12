@@ -1,4 +1,4 @@
-Hi👋, my name is Leonardo, but you can call me Léo.
+Hi👋, my name is Leonardo, but you can call me Leo.
 ==========================
 
 C# Developer
