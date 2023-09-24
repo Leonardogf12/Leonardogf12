@@ -11,16 +11,15 @@ C# Developer
 I'm 27 years old, I have a degree in "Systems Analysis and Development", I currently work with C# and .NET MAUI, but I have already worked with Xamarin, ASP.NET Core and .NET Framework, when I'm not working I like to study new technologies and also the ones I currently work on.
 </a></p>
 
-Currently:
-Studying: .NET MAUI, Rest Api, FireBase.
+Currently, Studying: 
+<!-- Studying - Badges -->
+<a href="https://learn.microsoft.com/pt-br/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET%20MAUI-%238464B8" width="100" height="30" alt="MAUI"/></a>
+<a href="https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/APIs%20RESTful-%238E2AD4" width="110" height="30" alt="API RESTful"/></a>
+<a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" width="90" height="30" alt="Firebase"/></a>
 
-
-
-  <!--<a><img src="https://i.giphy.com/media/VekcnHOwOI5So/giphy.webp" width="150" class="giphy-embed"/></a>-->
-  <p align='right'><a><img src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.webp" width="250" class="giphy-embed"/></a></p>
+<!-- GIF -->
+<p align='right'><a><img src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.webp" width="250" class="giphy-embed"/></a></p>
   
-
-
 ### GitHub Stats
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Leonardogf12&show_icons=true&count_private=true&theme=dark" width="450"></a>
