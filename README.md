@@ -4,7 +4,7 @@ Hi👋, my name is Leonardo, but you can call me Leo.
 C# Developer
 --------------------
 
-<p><a> I'm 27 years old, I have a degree in "Systems Analysis and Development", I currently work with C# and .NET MAUI, but I have already worked with Xamarin, ASP.NET Core and .NET Framework, when I'm not working I like to study new technologies and also the ones I currently work on. </a></p>
+<p><a>I'm 28 years old, I have a degree in "Systems Analysis and Development", I currently work with C# and .NET MAUI, but I've also worked with Xamarin, ASP.NET Core and .NET Framework, when I'm not working I like to study new technologies. </a></p>
 
 Currently, Studying: 
 <!-- Studying - Badges -->
