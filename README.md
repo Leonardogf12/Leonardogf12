@@ -1,16 +1,18 @@
-Hi👋, my name is Leonardo, but you can call me Leo.
+Olá👋, me chamo Leonardo, mas pode me chamar de Leo.
 ==========================
-
-C# Developer
+Desenvolvedor Mobile C# .NET
 --------------------
 
-<p><a>I'm 28 years old, I have a degree in "Systems Analysis and Development", I currently work with C# and .NET MAUI, but I've also worked with Xamarin, ASP.NET Core and .NET Framework, when I'm not working I like to study new technologies. </a></p>
+<p><a>Tenho 28 anos, sou formado em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento C#. Atualmente minhas habilidades técnicas centram-se em C# e .NET MAUI, mas ao longo da minha carreira, tive o privilégio de trabalhar com diversas outras tecnologias, incluindo Xamarin, .NET Core, .NET Framework, Bootstrap, jQuery, MySQL, SQL Server, GIT,  GitHub, IIS, JIRA, Azure DevOps dentre outras. </a></p>
 
-Currently, Studying: 
 <!-- Studying - Badges -->
+Estudando atualmente:
+<div>
 <a href="https://learn.microsoft.com/pt-br/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET%20MAUI-%238464B8" width="100" height="30" alt="MAUI"/></a>
-<a href="https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/APIs%20RESTful-%238E2AD4" width="110" height="30" alt="API RESTful"/></a>
-<a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" width="90" height="30" alt="Firebase"/></a>
+<a href="https://angular.dev/overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ANGULAR-%23fa6052" width="100" height="30" alt="ANGULAR"/></a>
+<a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FIREBASE-ffca0a" width="90" height="30" alt="Firebase"/></a>
+<a href="https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/API%20RESTFULL-%234f84ff" width="130" height="32" alt="API RESTful"/></a>
+</div>
 
 <!-- GIF -->
 <p align='right'><a><img src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.webp" width="250" class="giphy-embed"/></a></p>
