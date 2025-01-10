@@ -3,7 +3,7 @@ Olá👋, me chamo Leonardo, mas pode me chamar de Leo.
 Desenvolvedor Mobile C# .NET
 --------------------
 
-<p><a>Tenho 28 anos, sou formado em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento C#. Atualmente minhas habilidades técnicas centram-se em C# e .NET MAUI, mas ao longo da minha carreira, tive o privilégio de trabalhar com diversas outras tecnologias, incluindo Xamarin, .NET Core, .NET Framework, Bootstrap, jQuery, MySQL, SQL Server, GIT,  GitHub, IIS, JIRA, Azure DevOps dentre outras. </a></p>
+<p><a>Tenho 29 anos, sou formado em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento C#. Atualmente minhas habilidades técnicas centram-se em C# e .NET MAUI, mas ao longo da minha carreira, tive o privilégio de trabalhar com diversas outras tecnologias, incluindo Xamarin, .NET Core, .NET Framework, Bootstrap, jQuery, MySQL, SQL Server, GIT,  GitHub, IIS, JIRA, Azure DevOps dentre outras. </a></p>
 
 <!-- Studying - Badges -->
 Estudando atualmente:
