@@ -9,9 +9,7 @@ Desenvolvedor Mobile C# .NET
 Estudando atualmente:
 <div>
 <a href="https://learn.microsoft.com/pt-br/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET%20MAUI-%238464B8" width="100" height="30" alt="MAUI"/></a>
-<a href="https://angular.dev/overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ANGULAR-%23fa6052" width="100" height="30" alt="ANGULAR"/></a>
-<a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FIREBASE-ffca0a" width="90" height="30" alt="Firebase"/></a>
-<a href="https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/API%20RESTFULL-%234f84ff" width="130" height="32" alt="API RESTful"/></a>
+<a href="https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/BLAZOR-%238464B8" width="100" height="30" alt="BLAZOR"/></a>
 </div>
 
 <!-- GIF -->
